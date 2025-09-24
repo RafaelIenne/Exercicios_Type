@@ -1,0 +1,11 @@
+{
+  "name": "camisetas",
+  "version": "1.0.0",
+  "description": "Calcular preço da camiseta junto ao seu desconto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
