@@ -1,0 +1,11 @@
+{
+  "name": "ex03",
+  "version": "1.0.0",
+  "description": "Programa que verifica se uma pessoa é maior ou menor de idade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
