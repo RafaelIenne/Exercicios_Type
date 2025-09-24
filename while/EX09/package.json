@@ -1,0 +1,11 @@
+{
+  "name": "ex09",
+  "version": "1.0.0",
+  "description": "maior valor do array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
