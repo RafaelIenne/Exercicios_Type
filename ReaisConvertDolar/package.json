@@ -1,0 +1,11 @@
+{
+  "name": "reaisconvertdolar",
+  "version": "1.0.0",
+  "description": "calcula o preço em dolar e converte para reais",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
