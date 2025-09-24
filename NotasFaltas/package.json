@@ -1,0 +1,11 @@
+{
+  "name": "notasfaltas",
+  "version": "1.0.0",
+  "description": "Verifica se um aluno foi aprovado ou reprovado baseado em suas notas e faltas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
